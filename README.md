@@ -1,4 +1,4 @@
-# MayFirstRepository
+# MyFirstRepository
 Репозиторий для работ с SkillFactory
 ##Текущий модуль
 Сейчас  это модуль 2 Git-start
